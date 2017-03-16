@@ -1,2 +1,2 @@
 # DISC
-This repository contains the code used during the course of my research Internship at ISI along with the final report.
+This repository contains the final report of my research internship at Indian Statistical Institute. The code for the proposed algorithm will be uploaded soon.
